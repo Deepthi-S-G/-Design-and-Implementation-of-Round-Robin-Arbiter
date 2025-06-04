@@ -40,7 +40,7 @@ cd round-robin-arbiter
 The RRA takes in 4 request signals and outputs 4 grant signals using a cyclic priority mechanism. Each device is granted access in a round-robin fashion, ensuring fair scheduling.
 
 ### Block Diagram
-![Block diagram]("https://github.com/Deepthi-S-G/Design-and-Implementation-of-Round-Robin-Arbiter/blob/main/RRA_Diagrams/Block%20Diagram%20of%20RRA.png")
+![Block diagram](https://github.com/Deepthi-S-G/Design-and-Implementation-of-Round-Robin-Arbiter/blob/main/RRA_Diagrams/Block%20Diagram%20of%20RRA.png)
 
 #### Inputs
 - req0 to req3: Request signals from processors
