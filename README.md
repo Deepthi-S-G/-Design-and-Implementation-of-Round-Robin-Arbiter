@@ -93,7 +93,7 @@ block reveals the gate connections.
 LEDs responded correctly to toggle switch inputs simulating processor requests.
 
 #### Simulation waveform :
-![Simulation waveform]()
+![Simulation waveform](https://github.com/Deepthi-S-G/Design-and-Implementation-of-Round-Robin-Arbiter/blob/main/RRA_Diagrams/RRAwaveform.png)
 
 
 ## Visualization
