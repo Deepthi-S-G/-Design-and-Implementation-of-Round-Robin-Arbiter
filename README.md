@@ -63,25 +63,25 @@ ensuring its suitability for practical hardware deployment.
 The simulation results include a model view, RTL schematic, and gate-level block 
 diagrams. 
 
-![Model View of RRA]()
+![Model View of RRA](https://github.com/Deepthi-S-G/Design-and-Implementation-of-Round-Robin-Arbiter/blob/main/RRA_Diagrams/Model%20View%20of%20RRA.png)
 
 model view of a Round-Robin Arbiter that takes requests, a clock 
 signal, and a reset signal as inputs and provides a grant signal as the output. This model 
 view represents the connections of various blocks. Double-clicking reveals the RTL 
 schematic
 
-![ RTL Schema of RRA]()
+![ RTL Schema of RRA](https://github.com/Deepthi-S-G/Design-and-Implementation-of-Round-Robin-Arbiter/blob/main/RRA_Diagrams/RTL%20schematic%20of%20RRA.png)
 
 Each block in this RTL schematic contains various gate connections. double-clicking the 
 block reveals the gate connections.
 
-![First block in RTL schematic]()
+![First block in RTL schematic](https://github.com/Deepthi-S-G/Design-and-Implementation-of-Round-Robin-Arbiter/blob/main/RRA_Diagrams/First%20block%20in%20RTL%20schematic.png)
 
-![Second block in RTL schematic]()
+![Second block in RTL schematic](https://github.com/Deepthi-S-G/Design-and-Implementation-of-Round-Robin-Arbiter/blob/main/RRA_Diagrams/Second%20block%20in%20RTL%20schematic.png)
 
-![Third block in RTL schematic]()
+![Third block in RTL schematic](https://github.com/Deepthi-S-G/Design-and-Implementation-of-Round-Robin-Arbiter/blob/main/RRA_Diagrams/Third%20block%20in%20RTL%20schematic.png)
 
-![Fourth block in RTL schematic]()
+![Fourth block in RTL schematic](https://github.com/Deepthi-S-G/Design-and-Implementation-of-Round-Robin-Arbiter/blob/main/RRA_Diagrams/Fourth%20block%20in%20RTL%20schematic.png)
 
 ### Synthesis Reports:
 - Area: 412.474 µm²
